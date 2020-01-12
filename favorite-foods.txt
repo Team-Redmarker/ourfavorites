@@ -8,4 +8,6 @@ sauage
 blueburries
 apple
 one more food: pineapples
-
+banana
+pasta
+bagels
